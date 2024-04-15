@@ -1,6 +1,3 @@
-# School Management System PHP & MYSQL
-
-version: 1.0.0
 
 ## TECHNOLOGIES
 
